@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="1" hostname="Cloud" id="Cloud Foundry" name="Cloud Foundry" runtime-id="Cloud Foundry" server-type="org.cloudfoundry.appcloudserver.10" server-type-id="org.cloudfoundry.appcloudserver.10" start-timeout="600" stop-timeout="60" timestamp="1">
+    <list key="modules" value0="taotao-manager-web::org.eclipse.jst.jee.server:taotao-manager-web::jst.web::2.5"/>
+  </server>
+</servers>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=taotao-manager-service/C:\/Program Files\/Java\/jdk1.8.0_131\/jre\/lib\/rt.jar&lt;java.awt(ItemSelectable.class[ItemSelectable" modifiers="1537" timestamp="1527854403112"/>
+<typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ItemCatService.java[ItemCatService" modifiers="513" timestamp="1556113712220"/>
+<typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ItemParamService.java[ItemParamService" modifiers="513" timestamp="1556528467955"/>
+<typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ItemParamItemService.java[ItemParamItemService" modifiers="513" timestamp="1556608720410"/>
+<typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.service{ItemCatService.java[ItemCatService" modifiers="513" timestamp="1557152930429"/>
+<typeInfo handle="=taotao-manager-service/src\/main\/java&lt;com.taotao.service{ContentService.java[ContentService" modifiers="513" timestamp="1557416540387"/>
+<typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.service{ContentService.java[ContentService" modifiers="513" timestamp="1557458513314"/>
+<typeInfo handle="=taotao-rest/src\/main\/java&lt;com.taotao.rest.dao{JedisClient.java[JedisClient" modifiers="513" timestamp="1557825513491"/>
+</typeInfoHistroy>
